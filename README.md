@@ -1,12 +1,14 @@
-# automacaoMagalu
+## automacaoMagalu
 Teste feito para treinar automação com Selenium WebDriver, foi usado o site da Magalu como forma de experimento para testar meu conhecimento.
 
-# :books: Linguagem:
+## 📚 Linguagem:
 
-## • Java
+- ☕ Java;
+- 📖 Gherkin;
 
-# :hammer_and_wrench: Ferramentas:
+## 🛠️ Ferramentas:
 
-## • Selenium WebDriver
-## • JUnit 4
-## • Maven
+- ✔️ Selenium WebDriver;
+- 🥒 Cucumber;
+- 🟩 JUnit 4;
+- :feather: Maven;
